@@ -1,0 +1,3 @@
+Teks asli: Brimo sangat membantu saya dalam melakukan transaksi
+Teks setelah preprocessing: brimo sangat membantu saya dalam melakukan transaksi
+Hasil sentimen: Negatif
