@@ -2,6 +2,8 @@
 
 This project is part of the [Machine Learning Path Dicoding](https://www.dicoding.com/learningpaths/30). The goal of this project is to build a sentiment analysis model using various machine learning algorithms.
 
+See the [Master](https://github.com/alrescha79-cmd/analisis-sentimen/tree/master) Branch to see all source code.
+
 ## Project Description
 
 Sentiment analysis is the process of determining an individual's opinion or feelings about a topic based on provided text. In this project, various machine learning techniques are used to classify text into positive, negative, or neutral sentiments.
