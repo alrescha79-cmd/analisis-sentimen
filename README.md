@@ -65,7 +65,7 @@ git clone https://github.com/alrescha79-cmd/analisis-sentimen.git
 git checkout -b new-feature
 ```
 
-## Author
+## Author 
 
 This project was created by:
 - **[Anggun Caksono](https://www.github.com/alrescha79-cmd)**
